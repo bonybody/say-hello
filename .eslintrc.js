@@ -32,6 +32,7 @@ module.exports = {
   ],
   "rules": {
     "prettier/prettier": "error",
+    "import/prefer-default-export": "off",
     "react/prefer-stateless-function": 0,
     "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx", "ts", "tsx"] }],
     "import/no-unresolved": "off",
