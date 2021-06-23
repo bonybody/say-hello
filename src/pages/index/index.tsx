@@ -1,5 +1,6 @@
 import React from 'react';
 import logo from '../../logo.svg';
+import { AppButton } from '../../components/atoms/AppButton';
 
 const Index: React.FC = () => (
   <header className="App-header">
@@ -10,6 +11,7 @@ const Index: React.FC = () => (
     </p>
     <a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
       Learn React
+      <AppButton text="テキスト" />
     </a>
   </header>
 );
