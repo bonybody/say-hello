@@ -22,8 +22,10 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "lint": "eslint .",
-    "fix": "eslint --fix ."
+    "lint": "npm run lint:js && npm run lint:css && npm run format",
+    "lint:js": "eslint --fix .",
+    "lint:css": "stylelint src/**/*.{css,scss}",
+    "format": "prettier --write ."
   },
   "browserslist": {
     "production": [
@@ -53,6 +55,8 @@
     "stylelint": "^13.13.1",
     "stylelint-config-prettier": "^8.0.2",
     "stylelint-config-recommended": "^5.0.0",
-    "stylelint-prettier": "^1.2.0"
+    "stylelint-config-recommended-scss": "^4.2.0",
+    "stylelint-prettier": "^1.2.0",
+    "stylelint-scss": "^3.19.0"
   }
 }
