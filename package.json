@@ -25,7 +25,8 @@
     "lint": "npm run lint:js && npm run lint:css && npm run format",
     "lint:js": "eslint --fix .",
     "lint:css": "stylelint src/**/*.{css,scss}",
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "prepare": "husky install"
   },
   "browserslist": {
     "production": [
