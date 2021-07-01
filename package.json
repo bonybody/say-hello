@@ -34,9 +34,13 @@
     }
   },
   "lint-staged": {
-    "*.{ts,tsx}": "eslint --max-warnings=0 . --fix",
+    "*.{ts,tsx}": [
+      "eslint --max-warnings=0 . --fix　&& prettier --write .",
+      "prettier --write ."
+    ],
     "**/*.{css,scss}": [
-      "stylelint --max-warnings=0 src/**/*.{css,scss} --fix"
+      "stylelint --max-warnings=0 src/**/*.{css,scss} --fix",
+      "prettier --write ."
     ]
   },
   "browserslist": {
