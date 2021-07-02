@@ -31,6 +31,7 @@ module.exports = {
     'import/prefer-default-export': 'off',
     'react/prefer-stateless-function': 0,
     'react/jsx-filename-extension': [1, { extensions: ['.js', '.jsx', 'ts', 'tsx'] }],
+    'react/require-default-props': 'off',
     'import/no-unresolved': 'off',
     'import/extensions': [
       'error',
