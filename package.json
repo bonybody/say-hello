@@ -24,7 +24,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "lint": "npm run lint:js && npm run lint:css && npm run format",
-    "lint:js": "eslint --max-warnings=0 --ignore-path '.eslintignore' src/*.{ts,tsx}",
+    "lint:js": "eslint --max-warnings=0 --ignore-path .eslintignore src/*.{ts,tsx}",
     "lint:css": "stylelint --max-warnings=0 src/**/*.{css,scss}",
     "format": "prettier --write .",
     "prepare": "husky install"
