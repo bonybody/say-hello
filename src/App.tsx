@@ -3,9 +3,11 @@ import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom';
 import './App.css';
 import Test from './pages/test';
 import Index from './pages/index';
+import Header from './components/organisms/header/header';
 
 const App: React.FC = () => (
   <Router>
+    <Header />
     <div className="App">
       <ul>
         <li>
