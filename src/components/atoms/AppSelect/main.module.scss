@@ -1,0 +1,16 @@
+@import 'src/assets/styles/variables';
+
+.select {
+  display: inline-block;
+  width: 100%;
+  font-size: $mini-font-size;
+  font-weight: bold;
+  border-radius: $mini-radius;
+  padding: $medium-padding $semi-large-padding;
+  border: 2px solid $gray;
+  transition: 0.1s linear border-color;
+
+  &:focus {
+    border-color: $primary-color;
+  }
+}

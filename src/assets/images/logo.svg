@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3368.258" height="2859.538" viewBox="0 0 3368.258 2859.538">
+  <g id="グループ_104" data-name="グループ 104" transform="translate(-11262.742 -3731)">
+    <g id="グループ_103" data-name="グループ 103" transform="translate(0 1511.531)">
+      <g id="グループ_101" data-name="グループ 101" transform="translate(11273.742 2219)">
+        <rect id="長方形_37" data-name="長方形 37" width="2827" height="1295" rx="290" transform="translate(37.258 0.469)" fill="#7e92af"/>
+        <path id="多角形_2" data-name="多角形 2" d="M228.439,0,456.878,395.83H0Z" transform="translate(-11 1331.678) rotate(-59)" fill="#7e92af"/>
+      </g>
+      <g id="グループ_102" data-name="グループ 102" transform="translate(11804.311 3515.458)">
+        <rect id="長方形_37-2" data-name="長方形 37" width="2827" height="1296" rx="290" transform="translate(-0.311 0.012)" fill="#48bfff"/>
+        <path id="多角形_2-2" data-name="多角形 2" d="M228.439,0,456.878,395.83H0Z" transform="translate(2182.567 1371.647) rotate(-61)" fill="#48bfff"/>
+      </g>
+      <text id="Say" transform="translate(11928 3089.469)" fill="#fff" font-size="900" font-family="'游ゴシック体', 'Yu Gothic', YuGothic, 'ヒラギノ角ゴ Pro', 'Hiragino Kaku Gothic Pro', 'メイリオ', 'Meiryo', 'sans-serif'" font-weight="700"><tspan x="0" y="0">Say</tspan></text>
+      <text id="Hello" transform="translate(12173 4488.47)" fill="#fff" font-size="892" font-family="'游ゴシック体', 'Yu Gothic', YuGothic, 'ヒラギノ角ゴ Pro', 'Hiragino Kaku Gothic Pro', 'メイリオ', 'Meiryo', 'sans-serif'" font-weight="700"><tspan x="0" y="0">Hello</tspan></text>
+    </g>
+  </g>
+</svg>
