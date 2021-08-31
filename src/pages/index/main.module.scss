@@ -1,0 +1,54 @@
+@import 'src/assets/styles/variables';
+
+.wrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.image {
+  width: 150px;
+  height: auto;
+  margin: 0 auto $large-margin auto;
+
+  img {
+    width: 100%;
+    height: auto;
+    //filter: drop-shadow(10px 10px 10px rgba(0,0,0,0.6));
+  }
+}
+
+.catchCopy {
+  text-align: center;
+  display: block;
+  color: $white;
+  font-size: $large-font-size;
+  font-weight: bold;
+  margin-bottom: $large-margin;
+}
+
+.formSection {
+  margin-bottom: $medium-margin;
+}
+
+.heading {
+  color: $primary-color;
+  font-weight: bold;
+  font-size: $semi-large-font-size;
+  margin-bottom: $semi-large-margin;
+}
+
+.label {
+  display: inline-block;
+  font-weight: bold;
+  margin-bottom: $mini-margin;
+}
+.button {
+  text-align: center;
+}
+
+.content {
+  padding: $semi-large-padding;
+  border-radius: $medium-radius;
+  background-color: $white;
+}

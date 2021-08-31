@@ -4,6 +4,7 @@ import './index.scss';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import 'destyle.css';
+import './init';
 
 ReactDOM.render(
   <React.StrictMode>

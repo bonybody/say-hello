@@ -1,10 +1,7 @@
+@import 'src/assets/styles/variables';
+
 body {
   font-family: -apple-system, BlinkMacSystemFont, Roboto, 'Segoe UI', 'Helvetica Neue', HelveticaNeue, YuGothic,
     'Yu Gothic Medium', 'Yu Gothic', Verdana, Meiryo, sans-serif;
+  background-color: $background-accent-color;
 }
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
-}
-
-$hoge-color: green;
