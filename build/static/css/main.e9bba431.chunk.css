@@ -1,2 +1,81 @@
-body{font-family:-apple-system,BlinkMacSystemFont,Roboto,"Segoe UI","Helvetica Neue",HelveticaNeue,YuGothic,"Yu Gothic Medium","Yu Gothic",Verdana,Meiryo,sans-serif;background-color:#08b3ff}.main_button__WKW16{font-size:14px;font-weight:700;border-radius:4px;padding:8px 16px}.main_primary__1J1kq{background-color:#21a9ff;color:#fff}.main_accent__1WUSs{background-color:#fff;color:#21a9ff;border:1px solid #21a9ff}.main_wrap__3k9TW{display:flex;align-items:center;justify-content:center}.main_image__JDgfa{width:150px;height:auto;margin:0 auto 32px}.main_image__JDgfa img{width:100%;height:auto}.main_catchCopy__3Nsyg{text-align:center;display:block;color:#fff;font-size:24px;font-weight:700;margin-bottom:32px}.main_formSection__2f5xY{margin-bottom:12px}.main_heading__kAadh{color:#21a9ff;font-weight:700;font-size:20px;margin-bottom:16px}.main_label__1RlG3{display:inline-block;font-weight:700;margin-bottom:8px}.main_button__3Z9_B{text-align:center}.main_content__1UhR_{padding:16px;border-radius:8px;background-color:#fff}.main_select__aiGLU{display:inline-block;width:100%;font-size:14px;font-weight:700;border-radius:4px;padding:8px 16px;border:2px solid #ddd;transition:border-color .1s linear}.main_select__aiGLU:focus{border-color:#21a9ff}.App_layout__3IbE3{margin-top:32px}
+body {
+  font-family: -apple-system, BlinkMacSystemFont, Roboto, 'Segoe UI', 'Helvetica Neue', HelveticaNeue, YuGothic,
+    'Yu Gothic Medium', 'Yu Gothic', Verdana, Meiryo, sans-serif;
+  background-color: #08b3ff;
+}
+.main_button__WKW16 {
+  font-size: 14px;
+  font-weight: 700;
+  border-radius: 4px;
+  padding: 8px 16px;
+}
+.main_primary__1J1kq {
+  background-color: #21a9ff;
+  color: #fff;
+}
+.main_accent__1WUSs {
+  background-color: #fff;
+  color: #21a9ff;
+  border: 1px solid #21a9ff;
+}
+.main_wrap__3k9TW {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.main_image__JDgfa {
+  width: 150px;
+  height: auto;
+  margin: 0 auto 32px;
+}
+.main_image__JDgfa img {
+  width: 100%;
+  height: auto;
+}
+.main_catchCopy__3Nsyg {
+  text-align: center;
+  display: block;
+  color: #fff;
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 32px;
+}
+.main_formSection__2f5xY {
+  margin-bottom: 12px;
+}
+.main_heading__kAadh {
+  color: #21a9ff;
+  font-weight: 700;
+  font-size: 20px;
+  margin-bottom: 16px;
+}
+.main_label__1RlG3 {
+  display: inline-block;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+.main_button__3Z9_B {
+  text-align: center;
+}
+.main_content__1UhR_ {
+  padding: 16px;
+  border-radius: 8px;
+  background-color: #fff;
+}
+.main_select__aiGLU {
+  display: inline-block;
+  width: 100%;
+  font-size: 14px;
+  font-weight: 700;
+  border-radius: 4px;
+  padding: 8px 16px;
+  border: 2px solid #ddd;
+  transition: border-color 0.1s linear;
+}
+.main_select__aiGLU:focus {
+  border-color: #21a9ff;
+}
+.App_layout__3IbE3 {
+  margin-top: 32px;
+}
 /*# sourceMappingURL=main.e9bba431.chunk.css.map */
