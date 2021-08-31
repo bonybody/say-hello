@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "./static/css/main.e9bba431.chunk.css",
-    "main.js": "./static/js/main.e53e740e.chunk.js",
-    "main.js.map": "./static/js/main.e53e740e.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.45d850bc.js",
-    "runtime-main.js.map": "./static/js/runtime-main.45d850bc.js.map",
-    "static/css/2.51a7c68f.chunk.css": "./static/css/2.51a7c68f.chunk.css",
-    "static/js/2.f3c09976.chunk.js": "./static/js/2.f3c09976.chunk.js",
-    "static/js/2.f3c09976.chunk.js.map": "./static/js/2.f3c09976.chunk.js.map",
-    "static/js/3.9f21a462.chunk.js": "./static/js/3.9f21a462.chunk.js",
-    "static/js/3.9f21a462.chunk.js.map": "./static/js/3.9f21a462.chunk.js.map",
-    "index.html": "./index.html",
-    "static/css/2.51a7c68f.chunk.css.map": "./static/css/2.51a7c68f.chunk.css.map",
-    "static/css/main.e9bba431.chunk.css.map": "./static/css/main.e9bba431.chunk.css.map",
-    "static/js/2.f3c09976.chunk.js.LICENSE.txt": "./static/js/2.f3c09976.chunk.js.LICENSE.txt",
-    "static/media/logo.b59fdaf7.svg": "./static/media/logo.b59fdaf7.svg"
+    "main.css": "/say-hello/static/css/main.e9bba431.chunk.css",
+    "main.js": "/say-hello/static/js/main.e53e740e.chunk.js",
+    "main.js.map": "/say-hello/static/js/main.e53e740e.chunk.js.map",
+    "runtime-main.js": "/say-hello/static/js/runtime-main.b1aea518.js",
+    "runtime-main.js.map": "/say-hello/static/js/runtime-main.b1aea518.js.map",
+    "static/css/2.51a7c68f.chunk.css": "/say-hello/static/css/2.51a7c68f.chunk.css",
+    "static/js/2.cf87b4e5.chunk.js": "/say-hello/static/js/2.cf87b4e5.chunk.js",
+    "static/js/2.cf87b4e5.chunk.js.map": "/say-hello/static/js/2.cf87b4e5.chunk.js.map",
+    "static/js/3.9f21a462.chunk.js": "/say-hello/static/js/3.9f21a462.chunk.js",
+    "static/js/3.9f21a462.chunk.js.map": "/say-hello/static/js/3.9f21a462.chunk.js.map",
+    "index.html": "/say-hello/index.html",
+    "static/css/2.51a7c68f.chunk.css.map": "/say-hello/static/css/2.51a7c68f.chunk.css.map",
+    "static/css/main.e9bba431.chunk.css.map": "/say-hello/static/css/main.e9bba431.chunk.css.map",
+    "static/js/2.cf87b4e5.chunk.js.LICENSE.txt": "/say-hello/static/js/2.cf87b4e5.chunk.js.LICENSE.txt",
+    "static/media/logo.b59fdaf7.svg": "/say-hello/static/media/logo.b59fdaf7.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.45d850bc.js",
+    "static/js/runtime-main.b1aea518.js",
     "static/css/2.51a7c68f.chunk.css",
-    "static/js/2.f3c09976.chunk.js",
+    "static/js/2.cf87b4e5.chunk.js",
     "static/css/main.e9bba431.chunk.css",
     "static/js/main.e53e740e.chunk.js"
   ]
